@@ -1,6 +1,6 @@
 # My First Repository
 # Main title
 
-# sub title 1
+## sub title 1
 
-# Sub title 2
+## Sub title 2
