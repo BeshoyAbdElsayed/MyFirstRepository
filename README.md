@@ -15,12 +15,13 @@
 ```
 
 ## Output: 
+```
 panels that will be flagged:
 (3, 1)
 (7, 2)
 (6, 4)
 panels that will be revealed:
-
+```
 
  
 
