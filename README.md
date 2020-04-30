@@ -14,7 +14,7 @@
 {-2, -2, -2, -2, -2, -2, -2, -2}
 ```
 
-## Output: 
+### Output: 
 ```
 panels that will be flagged:
 (3, 1)
@@ -40,9 +40,9 @@ panels that will be revealed:
 {-2,  1,  0,  0,  0,  0,  0,  0,  0}
 ```
 
-## Output:
+### Output:
 ```
- panels that will be flagged:
+panels that will be flagged:
 (3, 2)
 (2, 3)
 (1, 4)
